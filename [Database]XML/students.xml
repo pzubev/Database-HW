@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="students.xslt" ?>
+<students>
+  <student xmlns:students="urn:academy-ninja">
+    <name>Pesho Peshev</name>
+    <sex>Male</sex>
+    <phone>+3599999999</phone>
+    <email>pesho@peshev.com</email>
+    <course>DB</course>
+    <specialty>Ninja Academic</specialty>
+    <facultyNumber>11111</facultyNumber>
+    <exams>
+      <exam>
+        <name>C# OOP</name>
+        <tutor>Nikolay Kostov</tutor>
+        <score>121</score>
+      </exam>
+      <exam>
+        <name>JS APPS</name>
+        <tutor>Doncho Minkov</tutor>
+        <score>38</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Petrana Petrova</name>
+    <sex>Female</sex>
+    <phone>+3598888888</phone>
+    <email>petrana@petrova.com</email>
+    <course>DB</course>
+    <specialty>Ninja Academic</specialty>
+    <facultyNumber>2000000</facultyNumber>
+    <exams>
+      <exam>
+        <name>C# OOP</name>
+        <tutor>Ivaylo Kenov</tutor>
+        <score>295</score>
+      </exam>
+      <exam>
+        <name>JS APPS</name>
+        <tutor>Evlogi Hristov</tutor>
+        <score>96</score>
+      </exam>
+    </exams>
+  </student>
+</students>
